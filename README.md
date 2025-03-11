@@ -5,13 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aperezmarquez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aperezmarquez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=145431629&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@aperezmarquez's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=145431629&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</div>
+</div> 
 
 ###
 
