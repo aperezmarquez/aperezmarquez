@@ -11,7 +11,7 @@
 
 <h3 align="left">Website/App development: </h3>
 <div align="left">
-    <div style="background-color: #ffe000">
+    <div style="background-color: #ffe000; width: 100px; height: 30px; padding: 5px">
         JavaScript
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
     </div>
