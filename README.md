@@ -162,6 +162,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aperezmarquez/aperezmarquez/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aperezmarquez&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
