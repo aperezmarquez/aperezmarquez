@@ -50,76 +50,101 @@
 
 <h3 align="left">DevOps: </h3>
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=gray">
     <img width="12" />
 </div>
 
-<h3 align="left">Machine Learning: </h3>
+<h3 align="left">Machine Learning & Data Analysis: </h3>
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=gray">
     <img width="12" />
-
+    <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=D00000&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Optuna-0854C1?style=for-the-badge&logo=optuna&logoColor=0854C1&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=8CAAE6&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-F96F29?style=for-the-badge&logo=matplotlib&logoColor=F96F29&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Seaborn-004B93?style=for-the-badge&logo=seaborn&logoColor=004B93&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=CD792C&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/DPLYR-21759B?style=for-the-badge&logo=dplyr&logoColor=21759B&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/GGPlot2-3F4F75?style=for-the-badge&logo=ggplot2&logoColor=3F4F75&labelColor=gray">
+    <img width="12" />
 </div>
 
 <h3 align="left">Testing: </h3>
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=gray">
+    <img width="12" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD&labelColor=gray">
     <img width="12" />
 </div>
 
 <h3 align="left">Languages: </h3>
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=276DC3&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=java&logoColor=1E8CBE&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=2C2D72&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=DC322F&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=276DC3&labelColor=gray">
     <img width="12" />
 </div>
 
 <h3 align="left">Tools: </h3>
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=064F8C&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="30" alt="gcc logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/GCC-1C3664?style=for-the-badge&logo=gcc&logoColor=1C3664&labelColor=gray">
     <img width="12" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" height="30" alt="packer logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=02A8EF&labelColor=gray">
     <img width="12" />
 </div>
 
 <h3 align="left">Hardware: </h3>
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=gray">
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=A22846&labelColor=gray">
     <img width="12" />
 </div>
 
