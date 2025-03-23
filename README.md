@@ -106,7 +106,7 @@
 
 <h3 align="left">Languages: </h3>
 <div align="left">
-    <img alt="Static Badge" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=276DC3&labelColor=gray">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=gray">
     <img width="12" />
     <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=gray">
     <img width="12" />
