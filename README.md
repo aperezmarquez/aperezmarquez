@@ -9,7 +9,7 @@
 
 ###
 <details>
-<summary>Skills</summary>
+<summary><h3>Skills</h3></summary>
 <h3 align="left">Website/App development: </h3>
 <div align="left">
     <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=gray"> 
