@@ -8,7 +8,8 @@
 </div> 
 
 ###
-
+<details>
+<summary>Skills</summary>
 <h3 align="left">Website/App development: </h3>
 <div align="left">
     <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=gray"> 
@@ -147,7 +148,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=A22846&labelColor=gray">
     <img width="12" />
 </div>
-
+</details>
 ###
 
 <div align="left"> 
